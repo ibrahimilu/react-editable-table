@@ -1,7 +1,7 @@
 {
   "name": "pairup",
   "version": "1.0.0",
-  "description": "Match a pair for dance to night",
+  "description": "react editable table",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
@@ -13,8 +13,8 @@
     "url": "git+https://github.com/ramanjaneya-karnati/react-editable-table.git"
   },
   "keywords": [
-    "pairup",
-    "match"
+    "react",
+    "table"
   ],
   "author": "Ramanjaneya Karnati",
   "license": "ISC",
