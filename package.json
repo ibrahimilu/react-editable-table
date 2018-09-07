@@ -1,0 +1,42 @@
+{
+  "name": "pairup",
+  "version": "1.0.0",
+  "description": "Match a pair for dance to night",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramanjaneya-karnati/react-editable-table.git"
+  },
+  "keywords": [
+    "pairup",
+    "match"
+  ],
+  "author": "Ramanjaneya Karnati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramanjaneya-karnati/react-editable-table/issues"
+  },
+  "homepage": "https://github.com/ramanjaneya-karnati/react-editable-table#readme",
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "css-loader": "^1.0.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^0.23.0",
+    "webpack": "^4.17.2",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.7"
+  },
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-dom": "^16.4.2",
+    "semantic-ui-react": "^0.82.3"
+  }
+}
